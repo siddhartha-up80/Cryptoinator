@@ -1,1 +1,1 @@
-# Expense list application to track expense information
+# A simple inator to do multiple things
